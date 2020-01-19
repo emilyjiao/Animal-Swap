@@ -1,0 +1,8 @@
+graphics/banner.png
+graphics/molang.gif
+graphics/piske.gif
+graphics/pusheen.gif
+graphics/rilakkuma.gif
+graphics/ryan.gif
+graphics/tuzki.gif
+graphics/usagi.gif
